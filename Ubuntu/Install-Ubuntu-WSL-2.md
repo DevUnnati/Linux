@@ -1,7 +1,8 @@
-**Setup Linux Subsystem (Ubunutu WSL-2)  on Windows**__
+<h1> <b>Setup Linux Subsystem (Ubunutu WSL-2)  on Windows </b></h1>
 
 **_Step1_:**  **Check if Virtualization is enabled.**
-   Go to Windows Task Manager, in the CPU tab check if “virtualization” is “enabled” or “disabled”. If “enabled”, proceed to next Step #2. 
+
+Go to Windows Task Manager, in the CPU tab check if “virtualization” is “enabled” or “disabled”. If “enabled”, proceed to next Step #2. 
 
 If “disabled”, restart your machine, go to the BIOS, and enable virtualization.
 
@@ -19,6 +20,7 @@ Please make sure this command is successfully run and your machine is restarted
 Restart the windows after the above command is completed.
 
 _**Step 2:**_ **Install Ubuntu from the below link, it will open Microsoft Store**
+
 https://www.microsoft.com/store/apps/9PN20MSR04DW
 
 Click on the “Get” button
