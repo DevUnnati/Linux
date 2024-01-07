@@ -5,6 +5,8 @@
 
 If “disabled”, restart your machine, go to the BIOS, and enable virtualization.
 
+[ubuntu_image]
+<img src="https://github.com/DevUnnati/Linux.wiki.git"> </img>
 
 Enable HyperV for windows
 
