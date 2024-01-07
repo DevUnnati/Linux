@@ -5,7 +5,7 @@
 
 If “disabled”, restart your machine, go to the BIOS, and enable virtualization.
 
-<img src="https://github.com/DevUnnati/Linux/wiki"> </img>
+<img src="https://github.com/DevUnnati/Images/blob/main/Capture.PNG"> </img>
 
 Enable HyperV for windows
 
@@ -22,6 +22,8 @@ _**Step 2:**_ **Install Ubuntu from the below link, it will open Microsoft Store
 https://www.microsoft.com/store/apps/9PN20MSR04DW
 
 Click on the “Get” button
+
+<img src="https://github.com/DevUnnati/Images/blob/main/2.PNG"> </img>
 
 Once the download is complete, Click on the “Open” button or go to the Windows start button, search “Ubuntu” and open the app.
 
